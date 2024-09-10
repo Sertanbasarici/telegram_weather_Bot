@@ -70,7 +70,7 @@ def helper(user_input):
         Bot.sendMessage(Bot.chat_id, message)
 
 if __name__ == "__main__":
-    Bot = Telebot("7358030936:AAG5qxqJ6nvQvi4cZokDr9MoXSg60h9e9Vw")
+    Bot = #Token number
     welcome_message = (
     "🌟 Telebot Sistemi'ne Hoşgeldiniz! 🌟\n\n"
     "Size nasıl yardımcı olabilirim? 😊\n"
